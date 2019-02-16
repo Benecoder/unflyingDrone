@@ -1,5 +1,8 @@
 In my defence: I did work on this project alone and so there was never really anybody that I had to make the code readable for. If it makes a difference, this is a short explantion of what the code does under the right conditions:
 
+<h3>komplette Arbeit/Anhang</h3>
+The scientific paper where all the results are gathered.
+
 <h3>Sensors</h3>
 Reads the Sensor Data via i2c and calculates orientation in degrees.
 
